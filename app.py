@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # =========================
 st.set_page_config(page_title="Thermal Stress Predictor", layout="centered")
 
-st.title("Thermal Curling Stress Predictor")
+st.title("Thermal Stress Predictor")
 st.write("Predict thermal stresses at Top, Middle and Bottom of a Concrete Slab")
 
 # =========================
